@@ -37,5 +37,6 @@ Future Improvements
 * Improve error handling with middleware
 * Write better test cases for authentication and validation
 
-* Contributing
- Feel free to open issues or submit PRs!
+
+Contributing
+ * Feel free to open issues or submit PRs!
