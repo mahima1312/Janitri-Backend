@@ -38,4 +38,4 @@ Future Improvements
 * Write better test cases for authentication and validation
 
 * Contributing
-Feel free to open issues or submit PRs!
+ Feel free to open issues or submit PRs!
