@@ -8,15 +8,12 @@ Features
 * MongoDB integration with Mongoose
 
 Tech Stack
-Backend: Node.js, Express.js
-Database: MongoDB, Mongoose
+* Backend: Node.js, Express.js
+* Database: MongoDB, Mongoose
 
-Installation
-Prerequisites
-Make sure you have the following installed:
-
-Node.js (v16+)
-MongoDB (Local or Atlas Cloud)
+Installation:
+* Node.js (v16+)
+* MongoDB (Local or Atlas Cloud)
 
 API Endpoints
 * User Routes
@@ -40,5 +37,5 @@ Future Improvements
 * Improve error handling with middleware
 * Write better test cases for authentication and validation
 
-Contributing
+* Contributing
 Feel free to open issues or submit PRs!
